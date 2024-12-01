@@ -9,3 +9,5 @@ In a typical Linux system, malloc interacts with the kernel to manage memory usi
 - **sbrk**: Adjusts the program's data segment, effectively growing or shrinking the heap.
 - **mmap**: Maps files or devices into memory but can also allocate large chunks of anonymous memory.
 
+## References
+- https://web.archive.org/web/0/http://www.inf.udec.cl/~leo/Malloc_tutorial.pdf
